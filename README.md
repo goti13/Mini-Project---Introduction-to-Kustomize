@@ -218,6 +218,7 @@ Verification Task
 
 - Run 'kubectl version' to ensure that kubectl is properly installed and can communicate with the Minikube cluster.
 
+<img width="2220" height="616" alt="image" src="https://github.com/user-attachments/assets/679bb12d-a414-4a52-9064-819283bfc2c5" />
 
 
 
